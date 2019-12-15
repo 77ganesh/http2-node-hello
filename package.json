@@ -1,0 +1,8 @@
+{
+  "name": "http2-hello",
+  "version": "1.0.0",
+  "description": "Hello World server in http2",
+  "main": "server.js",
+  "author": "77ganesh",
+  "license": "MIT"
+}
