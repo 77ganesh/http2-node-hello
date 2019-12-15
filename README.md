@@ -1,4 +1,4 @@
-Hello World http2 (alone with h2c) server & client in node
+Hello World http2 (along with h2c) server & client in node
 
 
 http2 is in general used with TLS.
